@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![github-snake](https://raw.githubusercontent.com/k2782-suka/k2782-suka/output/github-snake-dark.svg)
 
-[![Discord Presence](https://cnrad.dev)](https://discord.com)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1548734549368897557)](https://discord.com/users/1548734549368897557)
