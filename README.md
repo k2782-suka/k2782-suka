@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/k2782-suka/k2782-suka/blob/output/github-snake-dark.svg?raw=true" />
-  <source media="(prefers-color-scheme: light)" srcset="/k2782-suka/k2782-suka/blob/output/github-snake.svg?raw=true" />
-  <img alt="github-snake" src="/k2782-suka/k2782-suka/blob/output/github-snake.svg?raw=true" />
-</picture>
+![github-snake](https://rawgithubusercontent.com/k2782-suka/k2782-suka/output/github-snake-dark.svg)
+
 
