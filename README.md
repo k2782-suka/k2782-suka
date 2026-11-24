@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 ![github-snake](https://raw.githubusercontent.com/k2782-suka/k2782-suka/output/github-snake-dark.svg)
 
-<a href="https://discord.com">
-  <img src="https://cnrad.dev" alt="1548734549368897557" />
-</a>
+[![Discord Presence](https://cnrad.dev)](https://discord.com)
