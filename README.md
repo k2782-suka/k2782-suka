@@ -1,4 +1,4 @@
-## Tretyakovich
+## Привет, пишу все по приколу, через дипсик и клод
 
 <!--
 **k2782-suka/k2782-suka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
